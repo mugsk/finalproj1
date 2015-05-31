@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Title</key>
+		<string>My first trip</string>
+		<key>Date</key>
+		<date>2015-02-21T05:58:45Z</date>
+		<key>Notes</key>
+		<string>This is my first entry in notes. Hope it works</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Second Trip</string>
+		<key>Date</key>
+		<date>2015-02-21T05:59:41Z</date>
+		<key>Notes</key>
+		<string>My second trip</string>
+	</dict>
+</array>
+</plist>

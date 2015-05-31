@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Mood</key>
+		<string>Happy</string>
+		<key>Date</key>
+		<string>Thu 23 Feb 2015</string>
+		<key>Image</key>
+		<string>travel1.png</string>
+		<key>Title</key>
+		<string>Trip to Amsterdam!!</string>
+		<key>Places</key>
+		<string>Amsterdam</string>
+		<key>Notes</key>
+		<string>Fun trip to Amsterdam with friends. Met lots of interesting people.</string>
+	</dict>
+	<dict>
+		<key>Mood</key>
+		<string>Excited</string>
+		<key>Date</key>
+		<string>Thu 26 Feb 2015</string>
+		<key>Image</key>
+		<string>travel5.png</string>
+		<key>Title</key>
+		<string>Voyage en France</string>
+		<key>Places</key>
+		<string>Paris</string>
+		<key>Notes</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</string>
+	</dict>
+	<dict>
+		<key>Mood</key>
+		<string>Sad</string>
+		<key>Date</key>
+		<string>Thu 26 Feb 2015</string>
+		<key>Image</key>
+		<string>travel4.png</string>
+		<key>Title</key>
+		<string>Amazing California</string>
+		<key>Places</key>
+		<string>Santa Cruz</string>
+		<key>Notes</key>
+		<string>Today I traveled to a new place.</string>
+	</dict>
+	<dict>
+		<key>Mood</key>
+		<string>Enjoying</string>
+		<key>Date</key>
+		<string>Thu 25 Feb 2015</string>
+		<key>Image</key>
+		<string>travel2.png</string>
+		<key>Title</key>
+		<string>First Trip to London</string>
+		<key>Places</key>
+		<string>London</string>
+		<key>Notes</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</string>
+	</dict>
+</array>
+</plist>
